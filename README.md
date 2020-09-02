@@ -1,0 +1,2 @@
+# censys-cli
+censys CLI
